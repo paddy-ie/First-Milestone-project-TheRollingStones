@@ -7,8 +7,8 @@ body {
 .container-wrapper {}
 
 .container-wrapper--red {
-    background-color: #f05f40;
-    color: white;
+    background-color: #4e21c6 ;
+    color: #e5a02b;
 }
 
 .alert-container {}
@@ -16,7 +16,7 @@ body {
 .callout-container {
     height: 100vh;
 
-    background: url('images/Rolling-stones-large.jpg') no-repeat bottom right fixed;
+    background: url('images/rs-logo-2.5.png') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -112,35 +112,20 @@ body {
 }
 
 .block-divider--white {
-    background-color: white;
+    background-color: green;
 }
 
 .block-divider--short {
     width: 35px;
 }
 
-/* Buttons */
+/* Carousel*/
 
-.btn--cta {
-    font-weight: bold;
-    border-radius: 23px;
-    width: 160px;
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
-
-.btn--red {
-    color: white;
-    background-color: #f05f40;
-    border-color: #f05f40;
-}
-
-.btn--red:hover,
-.btn--red:active,
-.btn--red:focus,
-.btn--red:active:focus {
-    background-color: #df4929;
-    border-color: #df4929;
-    color: white;
-}
+ 
 
 /* Alert */
 
