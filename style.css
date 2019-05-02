@@ -8,7 +8,8 @@ body {
 
 .container-wrapper--red {
     background-color: #4e21c6 ;
-    color: #e5a02b;
+    color: white;
+    line-height: 20px;
 }
 
 .alert-container {}
@@ -16,7 +17,7 @@ body {
 .callout-container {
     height: 100vh;
 
-    background: url('images/rs-logo-2.5.png') no-repeat bottom right fixed;
+    background: url('images/rolling_seated.png') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -39,8 +40,8 @@ body {
 }
 
 .content-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 45px;
+    padding-bottom: 95px;
 }
 
 /* Navbar */
@@ -127,6 +128,7 @@ body {
 }
  
 
+
 /* Alert */
 
 .alert-container .col-12 {
@@ -184,3 +186,4 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
