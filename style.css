@@ -1,4 +1,4 @@
-body {
+.body {
     font-family: 'Roboto', sans-serif;
 }
 
@@ -10,6 +10,16 @@ body {
     background-color: #4e21c6 ;
     color: white;
     line-height: 20px;
+    text-align: justify;
+    letter-spacing: 0.5px;
+}
+
+.container-wrapper--blue {
+    background-color: #4e21c6 ;
+    color: white;
+    line-height: 20px;
+    text-align: left;
+    letter-spacing: 0.5px;
 }
 
 .alert-container {}
@@ -47,7 +57,7 @@ body {
 /* Navbar */
 
 .navalert-container {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     z-index: 1;
@@ -106,18 +116,7 @@ body {
     height: 5px;
     border: 0;
     background-color: #444;
-}
 
-.block-divider--orange {
-    background-color: #f05f40;
-}
-
-.block-divider--white {
-    background-color: green;
-}
-
-.block-divider--short {
-    width: 35px;
 }
 
 /* Carousel*/
@@ -151,7 +150,7 @@ body {
 .page-header {
     margin-bottom: 0;
     border-bottom: 0;
-    text-align: center;
+    text-align: justify;
 }
 
 .page-header h2 {
@@ -187,3 +186,19 @@ body {
     color: #f05f40;
 }
 
+
+.footer {
+  background: #061D25;
+  padding: 10px 0;
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #70726F;
+}
+.footer a:hover {
+  color: white;
+}
