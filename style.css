@@ -186,7 +186,54 @@
     color: #f05f40;
 }
 
+/* Youtube Videos Responsive */
 
+.youtube-wrapper{
+
+   width:100%
+
+}
+
+.youtube-video-1{
+  float:center;
+  width:50%;
+}
+
+.youtube-video-2 {
+  float:center;
+  width:50%;
+}
+
+.youtube-video-3 {
+  float:center;
+  width:50%;
+}
+
+.youtube-video-4 {
+  float:center;
+  width:50%;
+}
+
+.youtube-video-5 {
+  float:center;
+  width:50%;
+}
+
+.youtube-video-6 {
+  float:right;
+  width:50%;
+}
+
+
+
+.table th {
+   text-align: center; 
+}
+
+.table {
+   margin: auto;
+   width: 50% !important; 
+}
 .footer {
   background: #061D25;
   padding: 10px 0;
