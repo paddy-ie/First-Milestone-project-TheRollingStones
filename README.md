@@ -3,20 +3,22 @@
 
 Stream One Project: User Centric Frontend Development - Code Institute
 
-This is my project on the band the Rolling Stones. The projects aim was to show some history of the site and allow fans to enjoy some songs.
+This is my project on the band the Rolling Stones. The projects aim was to show some history of the site and allow fans to enjoy some songs. I decided to go with this band, as I'm a huge fan.
 
-Demo
+##Demo
 A live demo can be found at https://paddy-ie.github.io/First-Milestone-project-TheRollingStones/
 
 ## UX
-My goal in the design was to make information accessible on the site, while striving for a minimalist I feel the picture in the background adds a uniqueness of the site
-nes
-Technologies
+My goal in the design was to make information accessible on the site, while striving for a minimalist I feel the picture in the background adds a uniqueness of the site. The aim of the site is to both give the use a bit of history of the band, also to allow them appreciate some of this bands great music. I went with a slide effect on all pages and on the about section added in a full page slider.
+
+##Technologies
 * HTML
 * CSS
 * Bootstrap
 
 ## Wireframes
+
+This is roughly how I wanted the sites to look.
 
 index.html
 ![](rmimages/index.PNG)
@@ -24,13 +26,13 @@ index.html
 about.html
 ![](rmimages/about.PNG)
 
-tour.html
+tour.html       This links out to the Booking website, so actual tickets can be bought
 ![](rmimages/tour.PNG)
 
-listen.html
+listen.html       A list of songs can be played in the site.
 ![](rmimages/listen.PNG)
 
-watch.html
+watch.html          Youtube videos are embedded
 ![](rmimages/watch.PNG)
 
 
@@ -66,4 +68,6 @@ All photos are from Google Image search  and Audio is from Youtube
 
 The site is modeled on some exmaple sites I completed, but has been heavly modified.
 
-This is for educational use.
+All Images and video/Audio are subject to copyright of their respective owners
+
+This is for educational use only.
