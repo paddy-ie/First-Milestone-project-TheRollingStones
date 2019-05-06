@@ -16,11 +16,22 @@ Technologies
 * CSS
 * Bootstrap
 
-
 ## Wireframes
 
+index.html
+![](rmimages/index.PNG)
+
+about.html
 ![](rmimages/about.PNG)
 
+tour.html
+![](rmimages/tour.PNG)
+
+listen.html
+![](rmimages/listen.PNG)
+
+watch.html
+![](rmimages/watch.PNG)
 
 
 
