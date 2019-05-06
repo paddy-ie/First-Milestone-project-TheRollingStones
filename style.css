@@ -7,7 +7,7 @@
 .container-wrapper {}
 
 .container-wrapper--red {
-    background-color: #4e21c6 ;
+    background-color: #4e21c6;
     color: white;
     line-height: 20px;
     text-align: justify;
@@ -15,7 +15,7 @@
 }
 
 .container-wrapper--blue {
-    background-color: #4e21c6 ;
+    background-color: #4e21c6;
     color: white;
     line-height: 20px;
     text-align: left;
@@ -32,7 +32,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -125,7 +125,7 @@
     max-width: 100%;
     height: auto;
 }
- 
+
 
 
 /* Alert */
@@ -176,76 +176,49 @@
     line-height: 45px;
 }
 
-.feature .btn {
-    background-color: white;
-    border-color: white;
-    border-radius: 15px;
-    min-width: 100px;
-    font-weight: bold;
-    margin-top: 10px;
-    color: #f05f40;
+    .footer {
+        background: #061D25;
+        padding: 15px 0;
+    }
+    .footer a {
+        color: #70726F;
+        font-size: 20px;
+        transition: all .5s ease;
+    }
+    .footer a:first-child {
+        border-left: 1px solid #70726F;
+    }
+    .footer a:hover {
+        color: white;
+    }
+
+/* table on tour page */
+.divTable{
+	display: table;
+	width: 80%;
 }
-
-/* Youtube Videos Responsive */
-
-.youtube-wrapper{
-
-   width:100%
-
+.divTableRow {
+	display: table-row;
 }
-
-.youtube-video-1{
-  float:center;
-  width:50%;
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
 }
-
-.youtube-video-2 {
-  float:center;
-  width:50%;
+.divTableCell, .divTableHead {
+	border: 1px solid #999999;
+	display: table-cell;
+	padding: 3px 5px;
 }
-
-.youtube-video-3 {
-  float:center;
-  width:50%;
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
 }
-
-.youtube-video-4 {
-  float:center;
-  width:50%;
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
 }
-
-.youtube-video-5 {
-  float:center;
-  width:50%;
-}
-
-.youtube-video-6 {
-  float:right;
-  width:50%;
-}
-
-
-
-.table th {
-   text-align: center; 
-}
-
-.table {
-   margin: auto;
-   width: 50% !important; 
-}
-.footer {
-  background: #061D25;
-  padding: 10px 0;
-}
-.footer a {
-  color: #70726F;
-  font-size: 20px;
-  transition: all .5s ease;
-}
-.footer a:first-child {
-  border-left: 1px solid #70726F;
-}
-.footer a:hover {
-  color: white;
+.divTableBody {
+	display: table-row-group;
 }
