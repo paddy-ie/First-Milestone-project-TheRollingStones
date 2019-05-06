@@ -65,7 +65,7 @@ All photos are from Google Image search  and Audio is from Youtube
 
 ## Acknowledgements:
 
-The site is modeled on some exmaple sites I completed, but has been heavly modified.
+The site is modeled on the Whiskey example site I completed, but has been heavly modified.
 
 All Images and video/Audio are subject to copyright of their respective owners
 
