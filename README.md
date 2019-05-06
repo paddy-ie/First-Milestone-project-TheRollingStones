@@ -61,7 +61,7 @@ At first I didn't have the Navbar fixed in place. So I tried making it sticky (C
 I'm still getting to gribs with CSS, so this site has taken me longer, but with everything, experience will make it easier and quicker.
 
 ## Media:
-All photos are from Google Image search  and Audio is from Youtube
+All photos are from Google Image search (useage rights non commercical)  and Audio is from Youtube. 
 
 ## Acknowledgements:
 
