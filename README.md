@@ -58,7 +58,7 @@ History of the band and band member Bio's were all taken from Wikipedia
 
 ## Bugs:
 At first I didn't have the Navbar fixed in place. So I tried making it sticky (Changing  position: sticky;), this caused a line in the background which proved to be very distracting. I changed the position of the container to: Changing  position: fixed; which solved the issue.
-I'm still gettingto gribs with CSS, so this site has taken me longer, but with everything,  experience will make it easier and quicker.
+I'm still getting to gribs with CSS, so this site has taken me longer, but with everything, experience will make it easier and quicker.
 
 ## Media:
 All photos are from Google Image search  and Audio is from Youtube
