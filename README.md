@@ -1,7 +1,6 @@
 
 ## Patrick Kelly Rolling Stones Band Website project
 
-Stream One Project: User Centric Frontend Development - Code Institute
 
 This is my project on the band the Rolling Stones. The projects aim was to show some history of the site and allow fans to enjoy some songs. I decided to go with this band, as I'm a huge fan.
 
